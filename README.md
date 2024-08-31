@@ -1,3 +1,4 @@
 # My_Music_Player
 
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" height="350" align="right" />
+  <img src="![Screenshot 2024-08-29 191330](https://github.com/user-attachments/assets/903f9d40-3fb8-448c-b647-7c5a5383950f)
+" width="350" height="350" align="right" />
